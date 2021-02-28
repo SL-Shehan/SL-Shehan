@@ -30,11 +30,11 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SL-Shehan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/SL-Shehan/airdrop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SL-Shehan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SL-Shehan&repo=airdrop&theme=light" />
 
 </a>
-<a href="https://github.com/SL-Shehan/TELEGRAM">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SL-Shehan&repo=VelocityX&theme=light" />
+<a href="https://github.com/SL-Shehan/Telegram">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SL-Shehan&repo=Telegram=light" />
 </a>
 
 <div align="center">
